@@ -23,4 +23,5 @@ def calculate(list):
 	'min': min_clc,
 	'sum': sum_clc
 	}
+
 	return calculations
